@@ -1,0 +1,5 @@
+Any Chain (BTC, ETH, RWAs) 
+     ↓ Ika Custody (native assets)
+Solana Program (BELP)
+     ↓ Encrypt (confidential positions)
+Lending Pool ←→ Borrowers (private loans)
